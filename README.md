@@ -57,6 +57,8 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Zone 5 Technologies](https://www.zone5tech.com)** | **[Embedded Software Engineer I/II](https://jobright.ai/jobs/info/695551edaa05c26e7aafa6c7?utm_campaign=Software%20Engineering&utm_source=1103)** | San Luis Obispo, CA | Hybrid | Dec 31 |
+| ↳ | **[Embedded Software Engineer I/II](https://jobright.ai/jobs/info/69554e1aaa05c26e7aafa59d?utm_campaign=Software%20Engineering&utm_source=1103)** | San Luis Obispo, California | Hybrid | Dec 31 |
 | **[Capella Space](http://www.capellaspace.com)** | **[Software Engineer, Tasking & Scheduling](https://jobright.ai/jobs/info/69010de9d5259a1b3cff0da8?utm_campaign=Software%20Engineering&utm_source=1103)** | Louisville, CO | On Site | Dec 31 |
 | **[Microsoft](https://www.microsoft.com)** | **[Software Engineer - CTJ - Poly](https://jobright.ai/jobs/info/69383502b95c305f206d6b97?utm_campaign=Software%20Engineering&utm_source=1103)** | Redmond, WA | On Site | Dec 31 |
 | **[City of New York](http://www1.nyc.gov)** | **[PROGRAMMER ANALYST](https://jobright.ai/jobs/info/69553509aa05c26e7aaf9f11?utm_campaign=Software%20Engineering&utm_source=1103)** | Brooklyn, NY | On Site | Dec 31 |
@@ -93,7 +95,7 @@ For a complete list, click the following sortable link below:
 | **[WEX](http://www.wexinc.com)** | **[Implementation Specialist 2](https://jobright.ai/jobs/info/695497345bb7de448ef78fea?utm_campaign=Software%20Engineering&utm_source=1103)** | Maine, United States | On Site | Dec 30 |
 | **[Accenture Federal Services](https://www.afs.com)** | **[Oracle EBS Developer](https://jobright.ai/jobs/info/692e5c6bfa28370be26a3ec8?utm_campaign=Software%20Engineering&utm_source=1103)** | San Antonio, TX | On Site | Dec 30 |
 | **[AppLovin](https://www.applovin.com)** | **[Backend Engineer, New Grad](https://jobright.ai/jobs/info/6897e5ed73b3a600fe8a112f?utm_campaign=Software%20Engineering&utm_source=1103)** | Palo Alto, CA | On Site | Dec 30 |
-| **[Nordstrom](http://www.nordstrom.com)** | **[Engineer 1 - MISC Team (Hybrid - Seattle, WA)](https://jobright.ai/jobs/info/6954915bf1f8465b79ebc070?utm_campaign=Software%20Engineering&utm_source=1103)** | Seattle, WA | Hybrid | Dec 30 |
+| **[Nordstrom](http://www.nordstrom.com)** | **[Engineer 1 - MISC Team (Hybrid - Seattle, WA)](https://jobright.ai/jobs/info/6954795faa05c26e7aaeeaf5?utm_campaign=Software%20Engineering&utm_source=1103)** | Seattle, WA | Hybrid | Dec 30 |
 | **[Evertz](http://www.evertz.com/)** | **[Cloud Applications Engineer - Live Media Systems](https://jobright.ai/jobs/info/69546c1ef1f8465b79eb90e8?utm_campaign=Software%20Engineering&utm_source=1103)** | Burlington, Ontario, Canada | On Site | Dec 30 |
 | **[WEX](http://www.wexinc.com)** | **[Implementation Specialist 2](https://jobright.ai/jobs/info/695460115bb7de448ef754c7?utm_campaign=Software%20Engineering&utm_source=1103)** | US - Remote | Remote | Dec 30 |
 | **[CACI bv](https://www.caci.nl)** | **[Entry/Mid Software Developer](https://jobright.ai/jobs/info/69546afbf1f8465b79eb903e?utm_campaign=Software%20Engineering&utm_source=1103)** | Washington, DC | On Site | Dec 30 |
@@ -398,8 +400,5 @@ For a complete list, click the following sortable link below:
 | **[Applied Intuition](https://appliedintuition.com)** | **[Software Engineer - Customer Portal](https://jobright.ai/jobs/info/68cda0a6b2a74e1837eda140?utm_campaign=Software%20Engineering&utm_source=1103)** | Sunnyvale, CA | Hybrid | Dec 25 |
 | **[Mimecast](http://www.mimecast.com)** | **[Software Development Engineer in Test](https://jobright.ai/jobs/info/6933a189a0dde7020e2efbce?utm_campaign=Software%20Engineering&utm_source=1103)** | Columbus, OH | Hybrid | Dec 25 |
 | **[Labcorp](https://www.labcorp.com)** | **[AWS Cloud Engineer](https://jobright.ai/jobs/info/694ce8c5d4a7df7a067223af?utm_campaign=Software%20Engineering&utm_source=1103)** | Albany, NY | On Site | Dec 24 |
-| ↳ | **[AWS Cloud Engineer](https://jobright.ai/jobs/info/694ce6acd4a7df7a067222d8?utm_campaign=Software%20Engineering&utm_source=1103)** | Durham, NC | On Site | Dec 24 |
 | **[Locals.com](https://www.locals.com/)** | **[QA Engineer](https://jobright.ai/jobs/info/694cbfaff5bef51c96ea85be?utm_campaign=Software%20Engineering&utm_source=1103)** | Toronto, ON | On Site | Dec 24 |
-| **[Booz Allen Hamilton](http://www.boozallen.com)** | **[University, Software Developer](https://jobright.ai/jobs/info/694c9de840e0af1db006c9a2?utm_campaign=Software%20Engineering&utm_source=1103)** | McLean, VA | Hybrid | Dec 24 |
-| **[JT4](https://www.jt4llc.com/)** | **[Computer Scientist I - Soft Decom](https://jobright.ai/jobs/info/694c95f9d64ebf28d82213e1?utm_campaign=Software%20Engineering&utm_source=1103)** | Edwards, CA | On Site | Dec 24 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
