@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Fidelity International](https://www.fidelityinternational.com)** | **[IS Quality Assurance Analyst](https://jobright.ai/jobs/info/6957fb8d9f1b381eb270f39a?utm_campaign=Software%20Engineering&utm_source=1103)** | Toronto Office | Remote | Jan 02 |
 | **[Sandridge Crafted Foods](http://sandridge.com)** | **[Quality Assurance Tech - 3rd Shift](https://jobright.ai/jobs/info/6957e2e0aa05c26e7ab1d204?utm_campaign=Software%20Engineering&utm_source=1103)** | Medina, OH | On Site | Jan 02 |
 | **[Elo Touch Solutions](http://www.elotouch.com)** | **[Android Developer](https://jobright.ai/jobs/info/690d0ea0221b890c2780283f?utm_campaign=Software%20Engineering&utm_source=1103)** | Knoxville, TN | Hybrid | Jan 02 |
 | **[Compass](http://www.compass.com)** | **[Software Engineer](https://jobright.ai/jobs/info/68e5953a1852e62f008123d4?utm_campaign=Software%20Engineering&utm_source=1103)** | Seattle, WA | Hybrid | Jan 02 |
@@ -78,6 +79,7 @@ For a complete list, click the following sortable link below:
 | **[SpaceX](https://www.spacex.com)** | **[Full Stack Software Engineer, Constellation Tools (Starlink)](https://jobright.ai/jobs/info/691e30bd09cc522e87737366?utm_campaign=Software%20Engineering&utm_source=1103)** | Redmond, WA | On Site | Jan 02 |
 | **[Ramp](https://ramp.com)** | **[University Grad / Software Engineer / Frontend](https://jobright.ai/jobs/info/68cd5e1c1ad6b16f02898cc6?utm_campaign=Software%20Engineering&utm_source=1103)** | New York, NY | On Site | Jan 02 |
 | **[Pegasystems](http://www.pega.com)** | **[Software Engineer, Pega Blueprint](https://jobright.ai/jobs/info/691e3d6a3f782d2f1afb2df9?utm_campaign=Software%20Engineering&utm_source=1103)** | Waltham, MA | On Site | Jan 02 |
+| **[Sezzle](https://sezzle.com)** | **[Mobile Engineer (LATAM, All Levels)](https://jobright.ai/jobs/info/691f4d143f782d2f1afba228?utm_campaign=Software%20Engineering&utm_source=1103)** | Latin America | On Site | Jan 02 |
 | **[Google](https://www.google.com)** | **[Software Engineer, PhD, Early Career, Embedded Systems and Firmware, 2026 Start](https://jobright.ai/jobs/info/68ae18b5daf1431824ca0c64?utm_campaign=Software%20Engineering&utm_source=1103)** | Sunnyvale, CA | Hybrid | Jan 02 |
 | ↳ | **[Software Engineer, PhD, Early Career, Embedded Systems and Firmware, 2026 Start](https://jobright.ai/jobs/info/68ae19bcd627244576e51a2b?utm_campaign=Software%20Engineering&utm_source=1103)** | Raleigh, NC | Hybrid | Jan 02 |
 | ↳ | **[Software Engineer, PhD, Early Career, Embedded Systems and Firmware, 2026 Start](https://jobright.ai/jobs/info/693bf45150bbaf76504f548e?utm_campaign=Software%20Engineering&utm_source=1103)** | Mountain View, CA | Hybrid | Jan 02 |
@@ -303,7 +305,7 @@ For a complete list, click the following sortable link below:
 | **[Employment Development Department](https://www.edd.ca.gov/About_EDD/Career_Opportunities.htm)** | **[INFORMATION TECHNOLOGY SPECIALIST I](https://jobright.ai/jobs/info/6952f5095bb7de448ef61547?utm_campaign=Software%20Engineering&utm_source=1103)** | Sacramento County, CA | Hybrid | Dec 29 |
 | **[Waymo](https://waymo.com)** | **[Software Engineer, Fleet Response (Backend)](https://jobright.ai/jobs/info/6939e08756b68f3dc4e73624?utm_campaign=Software%20Engineering&utm_source=1103)** | Mountain View, CA | Hybrid | Dec 29 |
 | **[Descartes Systems Group](https://www.descartes.com/)** | **[QA Engineer](https://jobright.ai/jobs/info/6952f327f1f8465b79ea4856?utm_campaign=Software%20Engineering&utm_source=1103)** | Waterloo, Ontario, Canada | Hybrid | Dec 29 |
-| **[Rise Baking Company](http://www.risebakingcompany.com/)** | **[Quality Assurance Technician I](https://jobright.ai/jobs/info/6952f306935649778e20bed0?utm_campaign=Software%20Engineering&utm_source=1103)** | Douglasville, GA, US | On Site | Dec 29 |
+| **[Rise Baking Company](http://www.risebakingcompany.com/)** | **[Quality Assurance Technician I](https://jobright.ai/jobs/info/6952f04af1f8465b79ea43c0?utm_campaign=Software%20Engineering&utm_source=1103)** | Douglasville, GA, US | On Site | Dec 29 |
 | **[Locals.com](https://www.locals.com/)** | **[QA Engineer](https://jobright.ai/jobs/info/6952e7865bb7de448ef5fe92?utm_campaign=Software%20Engineering&utm_source=1103)** | Toronto, Ontario, Canada | On Site | Dec 29 |
 | **[CalPERS](http://www.calpers.ca.gov/)** | **[Software Engineer](https://jobright.ai/jobs/info/6952e452f1f8465b79ea2dd8?utm_campaign=Software%20Engineering&utm_source=1103)** | Sacramento, CA | Hybrid | Dec 29 |
 | **[Amatrol](http://amatrol.com)** | **[Multimedia Developer](https://jobright.ai/jobs/info/6952ff9b5bb7de448ef61c90?utm_campaign=Software%20Engineering&utm_source=1103)** | Jeffersonville, IN | On Site | Dec 29 |
