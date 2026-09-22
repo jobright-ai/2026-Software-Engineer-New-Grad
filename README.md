@@ -49,6 +49,11 @@ For a complete list, click the following sortable link below:
 </a>
 </div>
 
+
+## Related Canada resource 🇨🇦
+
+- [Hanzilla Jobs](https://jobs.hanzilla.co/new-grad/) - Free daily-updated Canadian student and recent-grad job board for software engineering, data/AI, internships, co-ops, new-grad, junior, and entry-level roles across Canada.
+
 ---
 ## Daily Job List  🌐 🧭 🏆
 
